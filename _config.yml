@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hsukju's blog # the main title
+title: IceBrew # the main title
 
-tagline: 정진하지 않는 이에게 재능 따위는 사치야. # it will display as the sub-title
+tagline: Backend Developer Wannabe # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   석주의 기술 블로그
